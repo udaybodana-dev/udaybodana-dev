@@ -135,3 +135,15 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
+</picture>
+
+<h3 align="center">💡 Dev Quote of the Day</h3>
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0D1117&header=Quote%20of%20the%20Day&animation=fade" alt="Dev Quote" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
