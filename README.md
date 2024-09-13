@@ -93,3 +93,45 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
+</picture>
+
+<h3 align="center">🤝 Let's Connect</h3>
+<div align="center">
+
+<table border="1" cellpadding="20" cellspacing="0" width="90%">
+  <tr>
+    <td align="center" width="25%">
+      <b>💼 LinkedIn</b><br><br>
+      <a href="https://www.linkedin.com/in/uday-b-5a64903a2/" target="_blank">
+        <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <b>📧 Gmail</b><br><br>
+      <a href="mailto:udaybodana177@gmail.com">
+        <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <b>🔆 GitHub</b><br><br>
+      <a href="https://github.com/uday-bodana" target="_blank">
+        <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%0d5703.svg?style=for-the-badge&logo=github&logoColor=white" height="38" />
+      </a>
+    </td>
+        <td align="center" width="25%">
+      <b>🌐 Portfolio</b><br><br>
+      <a href="https://github.com/uday-bodana" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="38" />
+      </a>
+    </td>
+  </tr>
+</table>
+  ✨ <i>Let's connect and build something amazing together!</i> ✨
+<br><br>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
