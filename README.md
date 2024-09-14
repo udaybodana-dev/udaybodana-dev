@@ -147,3 +147,21 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
+</picture>
+
+<h3 align="center">🏆 GitHub Analytics</h3>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bodana&background=0D1117&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uday-bodana&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
+  </picture>
