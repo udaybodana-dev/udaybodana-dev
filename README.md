@@ -16,7 +16,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
       </p>
       <br>
       <ul>
-        <li>🎓 &nbsp;<b>B.Tech (CSE)</b> student at <a href="https://www.iiitn.ac.in"><b>IIIT Nagpur</b></a></li>
+        <li>🎓 &nbsp;Final Year <b>B.Tech (CSE)</b> student at <a href="https://www.iiitn.ac.in"><b>IIIT Nagpur</b></a></li>
         <li>🌱 &nbsp;Currently exploring <b>Full Stack Development</b></li>
         <li>💡 &nbsp;Developing scalable <b>web applications and APIs</b></li>
         <li>💬 &nbsp;Ask me about <b>JavaScript, React, Node.js, and MongoDB</b></li>
@@ -25,8 +25,8 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
       </ul>
     </td>
     <td width="47%" valign="middle" align="center">
-        <a href="https://github.com/uday-bodana"><img src="https://komarev.com/ghpvc/?username=uday-bodana&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="28" /></a>&nbsp;&nbsp;
-      <a href="https://github.com/uday-bodana" target="_blank">
+        <a href="https://github.com/udaybodana-dev"><img src="https://komarev.com/ghpvc/?username=udaybodana-dev&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="28" /></a>&nbsp;&nbsp;
+      <a href="https://github.com/udaybodana-dev" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" />
       </a>
       <img src="./coding.gif" width="85%" alt="Coding GIF" />
@@ -102,25 +102,25 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <tr>
     <td align="center" width="25%">
       <b>💼 LinkedIn</b><br><br>
-      <a href="https://www.linkedin.com/in/uday-b-5a64903a2/" target="_blank">
+      <a href="https://www.linkedin.com/in/uday-bodana-in/" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
       <b>📧 Gmail</b><br><br>
-      <a href="mailto:udaybodana177@gmail.com">
+      <a href="mailto:uday.bodana.dev@gmail.com">
         <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
       <b>🔆 GitHub</b><br><br>
-      <a href="https://github.com/uday-bodana" target="_blank">
+      <a href="https://github.com/udaybodana-dev" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%0d5703.svg?style=for-the-badge&logo=github&logoColor=white" height="38" />
       </a>
     </td>
         <td align="center" width="25%">
       <b>🌐 Portfolio</b><br><br>
-      <a href="https://github.com/uday-bodana" target="_blank">
+      <a href="https://github.com/udaybodana-dev" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="38" />
       </a>
     </td>
@@ -137,11 +137,15 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
 </picture>
 
-<h3 align="center">💡 Dev Quote of the Day</h3>
 
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0D1117&header=Quote%20of%20the%20Day&animation=fade" alt="Dev Quote" />
-</p>
+<h3 align="center">🏆 GitHub Analytics</h3>
+
+<div align="center">
+
+<img  height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaybodana-dev&layout=compact&bg_color=0D1117&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe&border_radius=15" alt="Most Used Languages" width="45%" /><img  height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodana-dev&background=0D1117&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=7dd3fc&border_radius=15" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaybodana-dev&bg_color=0d1117&color=00f2fe&line=00f2fe&point=00f2fe&area=true&area_color=1f2335&title_color=00f2fe&text_color=ffffff&hide_border=true&height=300" />
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
@@ -149,16 +153,11 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header" width="100%" />
 </picture>
 
-<h3 align="center">🏆 GitHub Analytics</h3>
+<h3 align="center">💡 Dev Quote of the Day</h3>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bodana&background=0D1117&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uday-bodana&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0D1117&header=Quote%20of%20the%20Day&animation=fade" alt="Dev Quote" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ececec&height=2&section=header">
